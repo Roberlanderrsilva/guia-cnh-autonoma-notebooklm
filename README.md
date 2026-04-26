@@ -8,7 +8,9 @@ https://github.com/user-attachments/assets/29e62eb6-1910-435e-99c6-a3c21a114387
 <img width="1408" height="768" alt="cnh-social" src="https://github.com/user-attachments/assets/ba5d3219-76d3-49d6-800d-a02f29ed2b26" />
 
 ## 🎯 Contexto e Objetivos
+
 Com o fim da obrigatoriedade das autoescolas para exames teóricos em 2026, este projeto visa democratizar o acesso à informação. O objetivo é criar um roteiro de estudos inteligente e autônomo, utilizando IA para simplificar o Código de Trânsito Brasileiro (CTB) e preparar o candidato usuário da CNH Social para a prova oficial do DETRAN.
+
 ## 🛠️ Tecnologias e Ferramentas
 
 Para o desenvolvimento deste projeto, foram utilizadas as seguintes tecnologias:
@@ -17,7 +19,7 @@ Para o desenvolvimento deste projeto, foram utilizadas as seguintes tecnologias:
 * **Git & GitHub:** Para controle de versionamento e governança de código.
 * **Lubuntu/Linux:** Ambiente operacional de desenvolvimento.
 * **Markdown:** Para documentação técnica e de compliance.
-*
+
 
 ## 📚 Curadoria de Fontes
 Para garantir a veracidade das informações e evitar "alucinações" da IA, foram utilizadas apenas fontes oficiais:
