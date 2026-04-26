@@ -1,5 +1,4 @@
 # 🚗 Miniguia de Estudos para CNH (Modelo Autônomo 2026)
-A sua CNH é aqui:
 <img width="1408" height="768" alt="cnh-social" src="https://github.com/user-attachments/assets/ba5d3219-76d3-49d6-800d-a02f29ed2b26" />
 
 ## 🎯 Contexto e Objetivos
@@ -43,4 +42,4 @@ Como seu **Instrutor Virtual**, estruturei este guia para ser o seu mapa definit
 * **Simulados Dinâmicos:** Bateria de questões geradas pela IA que simulam o tempo e a pressão da prova oficial.
 * **Videoaulas de Reforço:** Curadoria de vídeos práticos para visualizar a teoria em movimento.
 
-> **Promessa do Instrutor:** Seguindo este roteiro de ponta a ponta, você entra na sala de prova não para tentar, mas para buscar a sua aprovação. A CNH 2026 começa aqui.
+> **Promessa do Instrutor:** Seguindo este roteiro de ponta a ponta, você entra na sala de prova sem medos e sem inseguranças, mas para buscar a sua aprovação. A CNH 2026 começa aqui.
