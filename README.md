@@ -1,4 +1,4 @@
-# 🚗 Miniguia de Estudos para CNH (Modelo Autônomo 2026)
+# 🚗 Mini-guia de Estudos para CNH (Modelo Autônomo 2026)
 Vídeo de Demonstração:
 
 https://github.com/user-attachments/assets/29e62eb6-1910-435e-99c6-a3c21a114387
