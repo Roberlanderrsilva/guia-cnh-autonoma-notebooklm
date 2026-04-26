@@ -1,6 +1,6 @@
 # 🚗 Miniguia de Estudos para CNH (Modelo Autônomo 2026)
 A sua CNH é aqui:
-
+<img width="1408" height="768" alt="cnh-social" src="https://github.com/user-attachments/assets/ba5d3219-76d3-49d6-800d-a02f29ed2b26" />
 
 ## 🎯 Contexto e Objetivos
 Com o fim da obrigatoriedade das autoescolas para exames teóricos em 2026, este projeto visa democratizar o acesso à informação. O objetivo é criar um roteiro de estudos inteligente e autônomo, utilizando IA para simplificar o Código de Trânsito Brasileiro (CTB) e preparar o candidato para a prova oficial do DETRAN.
