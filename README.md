@@ -1,4 +1,6 @@
 # 🚗 Miniguia de Estudos para CNH (Modelo Autônomo 2026)
+Vídeo de Demonstração:
+
 <img width="1408" height="768" alt="cnh-social" src="https://github.com/user-attachments/assets/ba5d3219-76d3-49d6-800d-a02f29ed2b26" />
 
 ## 🎯 Contexto e Objetivos
