@@ -2,6 +2,15 @@
 
 Este repositório foi desenvolvido para o desafio da **DIO**, utilizando o **NotebookLM** para auxiliar candidatos à CNH no novo modelo de estudo independente.
 
+## 📖 Matérias Obrigatórias do Guia (Curadoria IA)
+
+Este guia, estruturado via NotebookLM, foca nos 5 pilares exigidos pelo CONTRAN para a formação teórica:
+
+* **Legislação:** Normas de conduta e hierarquia das leis de trânsito.
+* **Direção Defensiva:** Prevenção e segurança ativa/passiva.
+* **Primeiros Socorros:** Procedimentos básicos em situações de emergência.
+* **Mecânica Básica:** Manutenção preventiva e funcionamento do veículo.
+* **Meio Ambiente:** Impactos da mobilidade urbana e ética no trânsito.
 ## 🎯 Contexto e Objetivos
 Com o fim da obrigatoriedade das autoescolas para exames teóricos em 2026, este projeto organiza o conhecimento do CTB em um guia prático e interativo via IA.
 
